@@ -1,0 +1,3 @@
+RewriteCond %{HTTP_HOST} ^meusub\.seudominio\.com$ [NC]
+RewriteCond %{REQUEST_URI} !^/public/
+RewriteRule ^(.*)$ /public/$1 [L]
