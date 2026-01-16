@@ -16,7 +16,7 @@
 
 [SuiteCRM](https://suitecrm.com) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
 
-Nossa visão é ser o CRM empresarial de código aberto mais adotado do mundo, dando aos usuários controle total sobre seus dados e liberdade para possuir e personalizar sua solução de negócios.
+Nossa visão é ser o CRM empresarial de código aberto mais adotado do mundo, dando aos usuários controle total sobre seus dados e liberdade para possuir e personalizar sua solução de negócios..
 
 Find out more about SuiteCRM 8 and checkout the online demo [here](https://suitecrm.com/suitecrm8/)
 
