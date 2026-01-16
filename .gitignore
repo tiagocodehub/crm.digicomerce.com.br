@@ -1,0 +1,7 @@
+# SuiteCRM .gitignore
+config.php
+config_override.php
+cache/
+upload/
+*.log
+.env
